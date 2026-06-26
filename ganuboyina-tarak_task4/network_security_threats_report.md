@@ -10,7 +10,6 @@
 
 **Organization:** Oasis Infobyte
 
-**Date:** DD/MM/YYYY
 
 ---
 
