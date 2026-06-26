@@ -7,7 +7,6 @@
 * **Task Number:** Task 1
 * **Task Name:** Basic Network Scanning with Nmap
 * **Intern Name:** Tarak Ram
-* **Submission Date:** DD/MM/YYYY
 
 ---
 
